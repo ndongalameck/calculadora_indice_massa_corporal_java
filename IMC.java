@@ -27,7 +27,10 @@ import javax.swing.JOptionPane;
 			msg = "IMC = "+ imc + "\n" + msg;
 			
 			JOptionPane.showMessageDialog(null, msg);
-	// António Yosica
+	// Antonio Yosica
+			
+			// teste
+			System.out.println("ola mundo !!!");
 
 		}
 	}
